@@ -10,6 +10,6 @@
 <div align="center">
     <p">Este projeto baseado em uma é uma Pokédex, uma enciclopédia virtual portátil de alta tecnologia que os treinadores Pokémon transportam para registra todas as espécies diferentes de Pokémon que são encontradas.</p>
     <img width="30%" title="titulo da imagem" src="\images\aparelho.png"/>
-<p>Foi utilizado a API pokeapi, encontrada em:  </p>
+<p>Foi utilizada a API pokeapi, encontrada em:  </p>
     https://pokeapi.co/
 <div>
